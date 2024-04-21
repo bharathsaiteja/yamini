@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/bharathsaiteja/yamini.git/static/css/main.c544bdfe.css",
+    "main.js": "/bharathsaiteja/yamini.git/static/js/main.b83b2862.js",
+    "static/js/453.c597153d.chunk.js": "/bharathsaiteja/yamini.git/static/js/453.c597153d.chunk.js",
+    "static/media/kushi.mp3": "/bharathsaiteja/yamini.git/static/media/kushi.86e62c44e26045556df9.mp3",
+    "index.html": "/bharathsaiteja/yamini.git/index.html",
+    "main.c544bdfe.css.map": "/bharathsaiteja/yamini.git/static/css/main.c544bdfe.css.map",
+    "main.b83b2862.js.map": "/bharathsaiteja/yamini.git/static/js/main.b83b2862.js.map",
+    "453.c597153d.chunk.js.map": "/bharathsaiteja/yamini.git/static/js/453.c597153d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c544bdfe.css",
+    "static/js/main.b83b2862.js"
+  ]
+}
