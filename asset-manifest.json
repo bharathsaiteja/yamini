@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/yamini/static/css/main.c544bdfe.css",
+    "main.js": "/yamini/static/js/main.20392ea2.js",
+    "static/js/453.c597153d.chunk.js": "/yamini/static/js/453.c597153d.chunk.js",
+    "static/media/kushi.mp3": "/yamini/static/media/kushi.86e62c44e26045556df9.mp3",
+    "index.html": "/yamini/index.html",
+    "main.c544bdfe.css.map": "/yamini/static/css/main.c544bdfe.css.map",
+    "main.20392ea2.js.map": "/yamini/static/js/main.20392ea2.js.map",
+    "453.c597153d.chunk.js.map": "/yamini/static/js/453.c597153d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c544bdfe.css",
+    "static/js/main.20392ea2.js"
+  ]
+}
